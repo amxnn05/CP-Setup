@@ -1,0 +1,2 @@
+TIME_LIMIT="3 seconds"
+MEM_LIMIT="256 megabytes"
